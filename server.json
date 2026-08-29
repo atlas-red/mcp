@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.atlas-red/mind-map",
+  "title": "Atlas Red mind maps",
+  "description": "Create, edit, restructure, import and export Atlas Red mind maps from any MCP client. Free.",
+  "version": "1.0.0",
+  "websiteUrl": "https://atlas-red.com/mind-map-mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.atlas-red.com/mcp"
+    }
+  ]
+}
