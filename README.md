@@ -28,9 +28,9 @@ are in the app under Help, which needs a sign-in.
 
 ## What the assistant can do
 
-27 tools, every one annotated (`readOnlyHint` / `destructiveHint`):
+28 tools, every one annotated (`readOnlyHint` / `destructiveHint`):
 
-- **Maps:** `list_maps`, `create_map`, `get_map`, `rename_map`, `delete_map`, `set_map_settings`, `update_schema`, `list_templates`
+- **Maps:** `list_maps`, `create_map`, `get_map`, `show_map` (the map, interactive, right in the chat — ChatGPT and Claude), `rename_map`, `delete_map`, `set_map_settings`, `update_schema`, `list_templates`
 - **Nodes and links:** `add_node`, `update_node`, `delete_node`, `add_link`, `update_link`, `delete_link`, `get_context`
 - **Structure:** `add_subtree`, `replace_subtree`, `extract_subtree`
 - **Import / export:** `import_map` (Markdown, OPML, FreeMind, XMind, YAML, plain text), `export_map` (Markdown, OPML, XMindMark, FreeMind, JSON, HTML and more)
