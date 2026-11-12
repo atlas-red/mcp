@@ -5,6 +5,23 @@
   "description": "Build and edit real mind maps from a chat: brainstorm, plan, organise notes. Free, never metered.",
   "version": "1.2.0",
   "websiteUrl": "https://atlas-red.com/mind-map-mcp",
+  "repository": {
+    "url": "https://github.com/atlas-red/mcp",
+    "source": "github",
+    "id": "1350645883"
+  },
+  "icons": [
+    {
+      "src": "https://app.atlas-red.com/atlas-icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    },
+    {
+      "src": "https://app.atlas-red.com/atlas-icon-192.png",
+      "mimeType": "image/png",
+      "sizes": ["192x192"]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
